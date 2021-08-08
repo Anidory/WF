@@ -32,10 +32,10 @@ overflow-x: hidden}
 background-color:}
 	    
 	  .logo
-	   {width:60px;
-		height:60px;
+	   {background: transparent;
 		padding-left: 25px;
-        float:left;    }
+        float:left; }
+     
 
 	   .header ul
         {list-style: none;}
@@ -94,14 +94,14 @@ background-color:}
 		{ box-sizing: border-box;
          border: 2px solid #FABE1E; }
 
-	   .inforbox2
-	   {width: 1400px;
-	    height: 700px;
-		margin: auto;
-		padding: 10px;
-		align-content: center;
-		text-align: center;
-        background-color:}
+         .inforbox2
+         {width: 1400px;
+          height: 780px;
+        margin: auto;
+        padding: 10px;
+        align-content: center;
+        text-align: center;
+            background-color:}
 	   
 	   .chuahinh
 	   {width: 1400px;
@@ -156,15 +156,15 @@ figure:hover figcaption {
 		{ box-sizing: border-box;
          border: 2px solid #FABE1E; }
 
-       .footer
+         .footer
        {width: 1450px;
 		height: 100px;
         color: white;
 	    background-color:;
         text-align: center;
 		padding:0px;
-        margin: 300px 20px 0 -20px;}
-      
+        margin: 200px 0px 0px 20px;}
+        
 .searching
 {
   font-family:'Roboto';
@@ -308,12 +308,11 @@ input:focus ~ .highlight {
 		{visibility: visible;}
 
 .footer_box
- {width: 1510px;
-  height: 50px;
-  background-color:;
-padding:10px 0px 3 0;;
-clear: both;
- margin: 0px -70px 0 0}
+{ margin-left: -30px;
+  width: 1510px;
+ height: 50px;
+ background-color;
+  clear: both;}
 
 
 	
